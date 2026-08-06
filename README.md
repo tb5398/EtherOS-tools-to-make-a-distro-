@@ -6,4 +6,5 @@ this striped version of the ether kernel should  help you make your own version 
 
 <img width="1400" height="800" alt="untitled" src="https://github.com/user-attachments/assets/c34733a3-7f39-4f01-9581-ccd5e8108312" />
 
-the EtherOS mascot meme 
+the EtherOS mascot meme mac said yep 
+
